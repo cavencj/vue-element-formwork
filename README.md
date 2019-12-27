@@ -36,25 +36,25 @@ yarn run publish
 
 用于与后台交互的接口文件，建议一模块名命名：如 login.js
 
-###components
+### components
 
 > 组件目录
 
 该目录下的组件会被自动注册于全局组件，格式需要注意的每一个组件下必须有一个 index.vue 文件
 
-###layout
+### layout
 
 > 布局目录
 
-###loader
+### loader
 
 > 第三方组件装载目录
 
-###router
+### router
 
 > 路由配置目录
 
-###store
+### store
 
 > Vuex 配置目录
 
