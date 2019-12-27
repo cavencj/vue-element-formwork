@@ -1,4 +1,4 @@
-# vue-element-auth
+# vue-element-formwork
 
 ## Project setup
 ```
